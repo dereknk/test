@@ -1,2 +1,2 @@
 <?php
-hellow github!
+echo "hellow github!";
